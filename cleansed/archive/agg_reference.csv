@@ -1,0 +1,11 @@
+agg_sic_code,time_period_description,note_ref
+Agg 21,All retailing including automotive fuel,Note1
+Agg 21X,All retailing excluding automotive fuel,Note 1
+Agg 1,Predominantly food stores,
+Agg 12,Total of predominantly non-food stores,Note 2
+47.19,Non-specialised stores,Note 2
+Agg 5,"Textile, clothing and footwear stores",Note 2
+Agg 7,Household goods stores,Note 2
+Agg 13,Other stores,Note 2
+Agg 14,Non-store retailing,
+47.30,Predominantly automotive fuel,Note 1

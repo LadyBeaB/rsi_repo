@@ -1,0 +1,3 @@
+agg_sic_code|time_period_description|note_ref|sales_in_2022_mln|percentage_weight
+4772|Pharmaceutical, Medical, Cosmetic & Toilet Goods|
+47.78|Other Retail Sales in Specialised Stores NEC| 

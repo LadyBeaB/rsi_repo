@@ -1,0 +1,34 @@
+agg_sic_code,time_period_description,note_ref,sales_in_2022,percentage_weight
+AGG21,"All Retailing, Including Automotive Fuel",,"(£494,298m)",100
+AGG21X,"All Retailing, Excluding Automotive Fuel",,"(£439,575m)",88.93
+AGG1,Predominantly Food Stores,,"(£185,685m)",37.57
+47.11,Non-specialised Food Stores,,"(£170,869m)",34.57
+AGG26,Specialist Food Stores,,"(£11,171m)",2.26
+AGG27,"Alcoholic Drinks, Other Beverages and Tobacco",,"(£3,646m)",0.74
+AGG12,Predominantly Non-food Stores,,"(£189,472m)",38.33
+47.19,Non-Specialised Predominantly Non-Food Stores,,"(£35,127m)",7.11
+AGG5,"Textile, Clothing, Footwear and Leather",,"(£52,451m)",10.61
+47.51,Textiles,,(£1022m),0.21
+47.71,Clothing,,"(£45,886m)",9.28
+47.72,Footwear and Leather Goods,,"(£5,543m)",1.12
+AGG7,Household Goods Stores,,"(£37,660m)",7.62
+47.59,"Furniture, Lighting etc",,"(£16,530m)",3.34
+47.54,Electrical Household Appliances,,"(£6,950m)",1.41
+47.52,"Hardware, Paints and Glass",,"(£13,401m)",2.71
+AGG31,Music and video recordings and equipment,,(£779m),0.16
+AGG13,Other Specialised Non-food Stores,,"(£64,233m)",12.99
+47.73,Dispensing Chemists,,"(£1,643m)",0.33
+47.74,Medical Goods,,"(£1,289m)",0.26
+47.75,Cosmetic & Toilet Articles,,"(£5,706m)",1.15
+AGG32,Computers & Telecomms Equipment,,"(£4,050m)",0.82
+47.53,Floor Coverings,,"(£2,747m)",0.56
+AGG35,"Books, Newspapers & Periodicals",,"(£3,340m)",0.68
+AGG33,"Sports Equipment, Games & Toys",,"(£14,191m)",2.87
+47.76,"Flowers, plants, seeds, fertilisers and pet foods",,"(£6,887m)",1.39
+47.77,Watches & Jewellery,,"(£8,524m)",1.72
+47.78,Other Retail Sale of New Goods in Specialised Stores,,"(£11,999m)",2.43
+47.79,Second-hand Goods,,"(£3,857m)",0.78
+AGG14,Non-store Retail,,"(£64,417m)",13.03
+47.91,Mail Order,,"(£61,247m)",12.39
+Agg 11,Other Non-store Retail,,"(£3,171m)",0.64
+47.3,Automotive Fuel,,"(£54,723m)",11.07

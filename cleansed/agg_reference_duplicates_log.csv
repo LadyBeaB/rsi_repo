@@ -1,0 +1,10 @@
+type,time_period_description,kept_agg_sic_code,dropped_agg_sic_code
+agg_sic_code,"All Retailing, Including Automotive Fuel",AGG21,AGG21
+agg_sic_code,"All Retailing, Excluding Automotive Fuel",AGG21X,AGG21X
+agg_sic_code,Predominantly Food Stores,AGG1,AGG1
+agg_sic_code,Predominantly Non-food Stores,AGG12,AGG12
+agg_sic_code,Non-Specialised Predominantly Non-Food Stores,47.19,47.19
+agg_sic_code,"Textile, Clothing, Footwear and Leather",AGG5,AGG5
+agg_sic_code,Household Goods Stores,AGG7,AGG7
+agg_sic_code,Other Specialised Non-food Stores,AGG13,AGG13
+agg_sic_code,Non-store Retail,AGG14,AGG14

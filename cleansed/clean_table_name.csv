@@ -1,0 +1,10 @@
+table_name,table_code
+Index number of sales per week,INOSPW
+Revision to index numbers,RTIN
+Percentage change on same month a year earlier,PCOSMAYE
+Percentage change 3 months on same period a year earlier,PC3MOSPAYE
+Percentage change on previous month,PCOPM
+Percentage change 3 months on previous 3 months,PC3MOP3M
+Index numbers of sales per week,INOSPW
+Implied Price Deflator,IPD
+Percentage increase on a year earlier,PIOAYE

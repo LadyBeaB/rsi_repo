@@ -1,0 +1,30 @@
+worksheet_number,worksheet_description
+Notes,Notes related to the data in this spreadsheet
+CPSA,CPSA - Value of retail sales at current prices seasonally adjusted
+CPSA1,CPSA 1 - Retail sales index: value seasonally adjusted percentage change on same month a year earlier
+CPSA2,CPSA 2 - Retail sales index: value seasonally adjusted percentage change 3 months on same period a year earlier
+CPSA3,CPSA 3 - Retail sales index: value seasonally adjusted percentage change on previous month
+CPSA4,CPSA 4 - Retail sales index: value seasonally adjusted percentage change 3 months on previous 3 months
+KPSA,KPSA - Chained volume of retail sales seasonally adjusted
+KPSA1,KPSA 1 - Retail sales index: volume seasonally adjusted percentage change on same month a year earlier
+KPSA2,KPSA 2 - Retail sales index: volume seasonally adjusted percentage change 3 months on same period a year earlier
+KPSA3,KPSA 3 - Retail sales index: volume seasonally adjusted percentage change on previous month
+KPSA4,KPSA 4 - Retail sales index: volume seasonally adjusted percentage change 3 months on previous 3 months
+Table 1 A,Chained Volume of Retail Sales Seasonally Adjusted - Annual (All Businesses)
+Table 1 Q,Chained Volume of Retail Sales Seasonally Adjusted - Quarterly (All Businesses)
+Table 1 M,Chained Volume of Retail Sales Seasonally Adjusted - Monthly (All Businesses)
+Table 2 A,Value of Retail Sales at Current Prices - Annual (All Businesses)
+Table 2 Q,Value of Retail Sales at Current Prices - Quarterly (All Businesses)
+Table 2 M,Value of Retail Sales at Current Prices - Monthly (All Businesses)
+Table 3 A,Chained Volume of Retail Sales Non-Seasonally Adjusted - Annual (Broken down by large & small businesses)
+Table 3 Q,Chained Volume of Retail Sales Non-Seasonally Adjusted - Quarterly (Broken down by large & small businesses)
+Table 3 M,Chained Volume of Retail Sales Non-Seasonally Adjusted - Monthly (Broken down by large & small businesses)
+Table 4 A,Value of Retail Sales at Current Prices - Annual (Broken down by large & small businesses)
+Table 4 Q,Value of Retail Sales at Current Prices - Quarterly (Broken down by large & small businesses)
+Table 4 M,Value of Retail Sales at Current Prices - Monthly (Broken down by large & small businesses)
+Table 5,5 - Value of retail sales by commodity at current prices non-seasonally adjusted
+Table 6,6 - Year to date value of retail sales at current prices non-seasonally adjusted
+Table IDEF,IDEF - Implied price deflator - non-seasonally adjusted index
+Table ID1,ID1 - Implied price deflator - non-seasonally adjusted Year on year percentage change
+Table ID2,ID2 - Implied price deflator - non-seasonally adjusted Month on month percentage change
+CDKO,Retail Prices Index: Long run series: 1800 to 2024: Jan 1974=100

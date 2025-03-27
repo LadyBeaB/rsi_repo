@@ -1,0 +1,70 @@
+agg_sic_code,time_period_description,note_ref,sales_in_2022_mln,percentage_weight
+AGG21,All retailing including automotive fuel,Note 1,,
+AGG21X,All retailing excluding automotive fuel,Note 1,,
+AGG1,Predominantly food stores,,,
+AGG12,Total of predominantly non-food stores,Note 2,,
+47.19,Non-specialised stores,Note 2,,
+AGG5,"Textile, clothing and footwear stores",Note 2,,
+AGG7,Household goods stores,Note 2,,
+AGG13,Other stores,Note 2,,
+AGG14,Non-store retailing,,,
+47.30,Predominantly automotive fuel,Note 1,,
+47.11,Non-specialised Food Stores,,"170,869",34.57
+AGG26,Specialist Food Stores,,"11,171",2.26
+AGG27,"Alcoholic Drinks, Other Beverages and Tobacco",,"3,646",0.74
+47.51,Textiles,,1022,0.21
+47.71,Clothing,,"45,886",9.28
+47.72,Footwear and Leather Goods,,"5,543",1.12
+47.59,"Furniture, Lighting etc",,"16,530",3.34
+47.54,Electrical Household Appliances,,"6,950",1.41
+47.52,"Hardware, Paints and Glass",,"13,401",2.71
+AGG31,Music and video recordings and equipment,,779,0.16
+47.73,Dispensing Chemists,,"1,643",0.33
+47.74,Medical Goods,,"1,289",0.26
+47.75,Cosmetic & Toilet Articles,,"5,706",1.15
+AGG32,Computers & Telecomms Equipment,,"4,050",0.82
+47.53,Floor Coverings,,"2,747",0.56
+AGG35,"Books, Newspapers & Periodicals",,"3,340",0.68
+AGG33,"Sports Equipment, Games & Toys",,"14,191",2.87
+47.76,"Flowers, plants, seeds, fertilisers and pet foods",,"6,887",1.39
+47.77,Watches & Jewellery,,"8,524",1.72
+47.78,Other Retail Sale of New Goods in Specialised Stores,,"11,999",2.43
+47.79,Second-hand Goods,,"3,857",0.78
+47.91,Mail Order,,"61,247",12.39
+AGG11,Other Non-store Retail,,"3,171",0.64
+47.3,Automotive Fuel,,"54,723",11.07
+AGG21-AB,"All Retailing, Including Automotive Fuel, All Businesses",,"494,298",
+AGG21-LB,"All Retailing, Including Automotive Fuel, Large Businesses",,"385,221",
+AGG21-SB,"All Retailing, Including Automotive Fuel, Small Businesses",,"109,077",
+AGG21X-AB,"All Retailing, Excluding Automotive Fuel, All Businesses",,"439,575",
+AGG21X-LB,"All Retailing, Excluding Automotive Fuel, Large Businesses",,"339,305",
+AGG21X-SB,"All Retailing, Excluding Automotive Fuel, Small Businesses",,"100,270",
+AGG1-AB,"Predominantly Food Stores, All Businesses",,"185,685",
+AGG1-LB,"Predominantly Food Stores, Large Businesses",,"158,854",
+AGG1-SB,"Predominantly Food Stores, Small Businesses",,"26,831",
+47.11-AB,"Non-specialised Food Stores, All Businesses",,"170,869",
+47.11-LB,"Non-specialised Food Stores, Large Businesses",,"154,694",
+47.11-SB,"Non-specialised Food Stores, Small Businesses",,"16,175",
+AGG12-AB,"Predominantly Non-food Stores, All Businesses",,"189,472",
+AGG12-LB,"Predominantly Non-food Stores, Large Businesses",,"136,890",
+AGG12-SB,"Predominantly Non-food Stores, Small Businesses",,"52,582",
+47.19-AB,"Non-Specialised Predominantly Non-Food Stores, All Businesses",,"35,127",
+47.19-LB,"Non-Specialised Predominantly Non-Food Stores, Large Businesses",,"31,739",
+47.19-SB,"Non-Specialised Predominantly Non-Food Stores, Small Businesses",,"3,388",
+AGG5-AB,"Textile, Clothing, Footwear and Leather, All Businesses",,"52,451",
+AGG5-LB,"Textile, Clothing, Footwear and Leather, Large Businesses",,"44,697",
+AGG5-SB,"Textile, Clothing, Footwear and Leather, Small Businesses",,"7,755",
+47.71-AB,"Clothing, All Businesses",,"45,886",
+47.71-LB,"Clothing, Large Businesses",,"40,309",
+47.71-SB,"Clothing, Small Businesses",,"5,578",
+AGG7-AB,"Household Goods Stores, All Businesses",,"37,660",
+AGG7-LB,"Household Goods Stores, Large Businesses",,"25,412",
+AGG7-SB,"Household Goods Stores, Small Businesses",,"12,249",
+AGG13-AB,"Other Specialised Non-food Stores, All Businesses",,"64,233",
+AGG13-LB,"Other Specialised Non-food Stores, Large Businesses",,"35,042",
+AGG13-SB,"Other Specialised Non-food Stores, Small Businesses",,"29,191",
+AGG14-AB,"Non-store Retail, All Businesses",,"64,417",
+AGG14-LB,"Non-store Retail, Large Businesses",,"43,561",
+AGG14-SB,"Non-store Retail, Small Businesses",,"20,857",
+4772,"Pharmaceutical, Medical, Cosmetic & Toilet Goods",,,
+47.78,Other Retail Sales in Specialised Stores NEC, ,,
